@@ -61,7 +61,7 @@ Debe levantarse **después** del `config-server` y **antes** de `customer-servic
 
 ```bash
 cd eureka-server
-./mvnw spring-boot:run
+mvn spring-boot:run
 ```
 
 ## 🔍 Cómo probarlo
